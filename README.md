@@ -1,5 +1,5 @@
 ## Description:
-This is an implementation of Daniel Pelt's msdnet being trained to classify images from the CIFAR-10 dataset. 
+This is an implementation of Daniel Pelt's msdnet trained to classify images from the CIFAR-10 dataset. 
 It was used to test msdnet's performance on a pollen classification problem during an internship at Berkeley Lab.
 
 ## Reference:
